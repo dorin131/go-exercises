@@ -1,0 +1,4 @@
+0.10s   52988 http://dorin.co
+0.34s    4154 http://gopl.io
+0.38s    8759 https://golang.org
+0.39s    6825 https://godoc.org
